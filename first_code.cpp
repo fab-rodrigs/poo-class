@@ -21,7 +21,9 @@ void World::sayHello(){
 }
 
 void World::setName(string value){
-    _name = value;
+    if(!value.empty()){
+        _name = value;
+    }
 }
 
 int main()
