@@ -9,6 +9,7 @@ private:
     string _name;    // objeto "_name" da classe "string"
 public:
     void sayHello(); // método da classe mundo
+    void setName(string value);
 };
 
 void sayHello(){
@@ -16,7 +17,11 @@ void sayHello(){
 }
 
 void World::sayHello(){
-    cout << "Hello World!" << endl;
+    cout << "Hello World!" << _name << ":" << endl;
+}
+
+void World::setName(string value){
+    _name = value;
 }
 
 int main()
@@ -24,6 +29,8 @@ int main()
     sayHello();
 
     World obj;
+    obj.sayHello();
+    obj.setName("Fabricio");
     obj.sayHello();
 
     return 0;
