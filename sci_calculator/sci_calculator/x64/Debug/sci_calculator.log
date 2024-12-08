@@ -1,0 +1,23 @@
+﻿   Qt/MSBuild: 3.3.1.1
+   Qt: 6.8.0
+  calculator.cpp
+C:\Users\Jogos\source\repos\sci_calculator\calculator.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0xc3 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+C:\Users\Jogos\source\repos\sci_calculator\calculator.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0xd6 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+C:\Users\Jogos\source\repos\sci_calculator\calculator.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x119 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+C:\Users\Jogos\source\repos\sci_calculator\calculator.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x175 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+C:\Users\Jogos\source\repos\sci_calculator\calculator.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0xaf5 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+C:\Users\Jogos\source\repos\sci_calculator\calculator.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0xc5d que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+C:\Users\Jogos\source\repos\sci_calculator\calculator.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0xcba que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+C:\Users\Jogos\source\repos\sci_calculator\calculator.h(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x167 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+  (compilando o arquivo fonte 'calculator.cpp')
+  
+C:\Users\Jogos\source\repos\sci_calculator\calculator.h(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x35e que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+  (compilando o arquivo fonte 'calculator.cpp')
+  
+C:\Users\Jogos\source\repos\sci_calculator\calculator.h(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x3ae que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+  (compilando o arquivo fonte 'calculator.cpp')
+  
+C:\Users\Jogos\source\repos\sci_calculator\calculator.h(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x3b9 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+  (compilando o arquivo fonte 'calculator.cpp')
+  
+  sci_calculator.vcxproj -> C:\Users\Jogos\source\repos\sci_calculator\x64\Debug\sci_calculator.exe
